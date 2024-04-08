@@ -2,7 +2,6 @@
 layout: slide
 title: "Welcome to our slide deck!"
 ---
-Eg like sjark og fesk!
 
 Hei!
 
